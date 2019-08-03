@@ -1,0 +1,10 @@
+{
+  "name": "Alexa_ConnectToSF",
+  "description": "Java web service to connect to salesforce",
+  "repository": "https://github.com/Subhojeet21/Alexa_ConnectToSF",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
