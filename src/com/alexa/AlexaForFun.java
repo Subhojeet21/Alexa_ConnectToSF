@@ -34,7 +34,7 @@ public class AlexaForFun{
 		ObjectMapper Obj = new ObjectMapper();
 		OutputSpeech resp1 = new OutputSpeech();
 		resp1.type = "SSML";
-		resp1.ssml = "<speak><emphasis level="strong">oh my God look, who is here. <break time="1s"/>Mr. Ghosh has arrived.</emphasis></speak>";
+		resp1.ssml = "<speak><emphasis level=\"strong\">oh my God look, who is here. <break time=\"1s\"/>Mr. Ghosh has arrived.</emphasis></speak>";
 		
 		Response rp = new Response();
 		rp.outputSpeech = resp1;
