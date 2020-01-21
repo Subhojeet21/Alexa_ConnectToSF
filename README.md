@@ -7,7 +7,7 @@
 # DEMO:
 
 <div align="center">
-  <a href="https://youtu.be/qkycvxzgxYo"><img src="https://img.youtube.com/vi/qkycvxzgxYo&t/0.jpg" alt="Image Classifier App with Alexa"></a>
+  <a href="https://youtu.be/qkycvxzgxYo"><img src="https://img.youtube.com/vi/qkycvxzgxYo/0.jpg" alt="Image Classifier App with Alexa"></a>
 </div>
 
 # More Details:
